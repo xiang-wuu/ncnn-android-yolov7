@@ -2,4 +2,5 @@
 .idea/
 app/.cxx/
 build/
-jni/
+app/src/main/jni/ncnn-20210524-android-vulkan/
+app/src/main/jni/opencv-mobile-4.5.1-android/
