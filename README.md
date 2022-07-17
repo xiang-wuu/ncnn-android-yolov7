@@ -1,5 +1,5 @@
 
-The yolov7 object detection
+# The yolov7 object detection
 
 This is a sample ncnn android project, it depends on ncnn library and opencv
 
@@ -32,9 +32,12 @@ https://github.com/nihui/opencv-mobile
 * FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-![](screenshot.png)
+![](photo_2022-07-17_22-33-38.jpg)
 
 ## reference  
+
 https://github.com/WongKinYiu/yolov7
+
 https://github.com/nihui/ncnn-android-nanodet
+
 https://github.com/Megvii-BaseDetection/YOLOX  
