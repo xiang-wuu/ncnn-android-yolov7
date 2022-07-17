@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+app/.cxx/
+build/
+jni/
