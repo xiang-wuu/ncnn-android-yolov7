@@ -41,3 +41,5 @@ https://github.com/WongKinYiu/yolov7
 https://github.com/nihui/ncnn-android-nanodet
 
 https://github.com/Megvii-BaseDetection/YOLOX  
+
+## If this helped you, don't forget to Star 🌟 the repo.
